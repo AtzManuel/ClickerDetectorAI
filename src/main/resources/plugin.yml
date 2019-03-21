@@ -1,0 +1,5 @@
+name: ClickerDetectorAI
+main: com.zmanuel.clickerdetector.Main
+version: 1.0-SNAPSHOT
+commands:
+  profile:

@@ -1,0 +1,13 @@
+#Storage types: YAML, MONGO
+Storage: YAML
+
+#Mongo connecction (If Storage is set to MONGO)
+MONGO:
+  HOST: 127.0.0.1
+  PORT: 27017
+  DATABASE: ClickerDetectorAI
+  AUTH:
+    ENABLED: false
+    DATABASE: admin
+    USERNAME: admin
+    PASSWORD: cdai
